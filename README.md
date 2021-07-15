@@ -21,8 +21,6 @@ PostgreSQL: is a library which one allow us connect a Postgre Database with out 
 
 JWT: is a way to authenticate the information. Safe and reliable.
 
-## Demo
-[API Market Deploy](https://market00.herokuapp.com/platzi-market/api "API Market Deploy")
 
 ## Author
 Realized by [Miguel Hernandez](https://github.com/Santia0098 "Miguel Hernandez") (Github).
