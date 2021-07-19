@@ -1,6 +1,16 @@
 # Java Spring Project
 
-## Overview
+In this project we realize a products CRUD using PostgreSQL as local database and is a Gradle project.
+
+## Getting started
+### Run project
+
+Steps:
+  1. Run our local database using pgAdmin.
+  2. Download this project and run it with IntelliJIDEA.
+  3. Check the connection and it's ready to use it.
+
+
 ### Dependencies
 
 In this project we do an API developed in Spring, to do this we use some libraries ->
