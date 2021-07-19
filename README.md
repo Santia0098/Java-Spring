@@ -1,5 +1,8 @@
 # Java Spring Project
 
+Is a java project and works with Data Persistence.
+
+## Description
 In this project we realize a products CRUD using PostgreSQL as local database and is a Gradle project.
 
 ## Getting started
